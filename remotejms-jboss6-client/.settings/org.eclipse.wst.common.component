@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="remotejms-jboss6-client">
+        <wb-resource deploy-path="/" source-path="/EarContent"/>
+        <dependent-module archiveName="remotejms-jboss6-client-web.war" deploy-path="/" handle="module:/resource/remotejms-jboss6-client-web/remotejms-jboss6-client-web">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>
