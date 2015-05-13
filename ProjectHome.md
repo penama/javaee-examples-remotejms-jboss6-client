@@ -1,0 +1,1 @@
+This project is an example for how to send JMS messages to a remote queue. The code is for a JBoss AS 6 based client.
